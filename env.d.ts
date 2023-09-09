@@ -1,0 +1,1 @@
+module "@chakra-ui/react"
