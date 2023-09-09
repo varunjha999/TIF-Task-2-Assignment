@@ -1,3 +1,14 @@
+#This is the task 2 of Round 2 (React Assignment).
+
+#Task 2: Build the missing parts of this project and fix the bugs.
+
+#Values in the draft card are made to update in real-time based on the user's input.
+# Validations are added in the interview settings tab
+# updated components- HomeLayout.tsx,InterviewSettingsForm.tsx,JobDetailsForm.tsx,RequisitionDetailsForm.tsx etc
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
